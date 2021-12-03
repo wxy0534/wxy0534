@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Xiangyu(Ping) Wang
 
 <!--
 **wxy0534/wxy0534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
